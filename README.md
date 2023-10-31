@@ -9,10 +9,10 @@
 
 # Installation
 1. Clone this repository to your local machine:
-   git clone https://github.com/yourusername/chatterbot-project.git
+   git clone https://github.com/SumanAchary/Chatbot_python.git
 
 2. Change the directory to the project folder:
-   cd chatterbot-project
+   cd Chatbot_python
 
 3. Install the required Python packages:
    pip install chatterbot
